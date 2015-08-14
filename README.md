@@ -6,6 +6,6 @@ Apikontor.com PHP Service
 <span>Sayfaya Apikontor kütüphanesini dahil ediniz, kullandığınız framework'e göre değişebilir. Yada Apikontor::FUNCTION_NAME olarak dahil edebilirsiniz</span>
 
 <b>Fiyatlarımı Listeleme</b>
-<pre><code><?php
+<code><?php
 echo Apikontor::fiyatlar();
-?></code></pre>
+?></code>
