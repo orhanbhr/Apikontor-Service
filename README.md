@@ -13,8 +13,12 @@ echo Apikontor::fiyatlar();
 
 <b>Talimat Gönderme</b>
 
-<br />
-
 <?php
 echo Apikontor::talimat('sms','vodafone','79','5XXXXXXXXX','1234567');
+?>
+
+<b>Talimat Durumu Sorgulama</b>
+
+<?php
+echo Apikontor::takip('1234567');
 ?>
