@@ -5,6 +5,8 @@ Apikontor.com PHP Service
 
 <span>Sayfaya Apikontor kütüphanesini dahil ediniz, kullandığınız framework'e göre değişebilir. Yada Apikontor::FUNCTION_NAME olarak dahil edebilirsiniz</span>
 
+<span>Tüm dönüşler JSON formatında yapılmaktadır. json_decode() aracılığıyla dönüşleri rahatlıkla alabilirsiniz.</span>
+
 <b>Fiyatları Listeleme</b>
 
 <?php
