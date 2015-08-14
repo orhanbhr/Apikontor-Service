@@ -11,8 +11,8 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Apikontor {
 
-    public static $bayikodu = '35B8872'; // apikontor.com Kullanıcı Adı
-    public static $sifre = '404040'; // Apikontor.com Şifre
+    public static $bayikodu = 'KULLANICI ADI'; // apikontor.com Kullanıcı Adı
+    public static $sifre = 'SIFRE'; // Apikontor.com Şifre
 
     /**
      * @return string
