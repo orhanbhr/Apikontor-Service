@@ -7,11 +7,9 @@ Apikontor.com PHP Service
 
 <b>Fiyatları Listeleme</b>
 
-<br />
-
-<code><?php
+<pre><?php
 echo Apikontor::fiyatlar();
-?></code>
+?></pre>
 
 <b>Talimat Gönderme</b>
 
