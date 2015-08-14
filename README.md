@@ -7,6 +7,8 @@ Apikontor.com PHP Service
 
 <span>Tüm dönüşler JSON formatında yapılmaktadır. json_decode() aracılığıyla dönüşleri rahatlıkla alabilirsiniz.</span>
 
+<span>NOT: Apikontor.php tarafındaki kullanıcı adı ve şifreyi değiştirmeyi unutmayınız.</span>
+
 <b>Fiyatları Listeleme</b>
 
 <?php
